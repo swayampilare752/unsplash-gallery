@@ -3,7 +3,7 @@ import axios from 'axios';
 import ImageGallery from './components/ImageGallery';
 import SearchBar from './components/SearchBar';
 
-const ACCESS_KEY = 'YOUR_UNSPLASH_ACCESS_KEY'; // Replace with your key
+const ACCESS_KEY = 'tiKRXG43vh-wO1b7NyNIU9ThqN_xsQ0bkUqOqPT_IJ8'; // Replace with your key
 
 function App() {
   const [images, setImages] = useState([]);
